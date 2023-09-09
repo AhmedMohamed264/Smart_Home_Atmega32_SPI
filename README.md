@@ -17,9 +17,6 @@ This project is my graduation project of the Information Technology Institute's 
   - [Compiling the Scripts](#compiling-the-scripts)
   - [Importing Hex files into proteus](#importing-hex-files-into-proteus)
 - [Software Code Usage](#software-code-usage)
-  - [Master Script APP.h](#master-script-(app.h))
-  - [Slave 1 Script APP.h](#slave-1-script-(app.h))
-  - [Slave 2 Script APP.h](#slave-2-script-(app.h))
 - [How does the algorithm work?](#algorithm)
 - [ScreenShots](#screenshots)
 
